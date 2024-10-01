@@ -36,11 +36,12 @@ section#tablet{
 
 iframe#tela{
     position: relative;
-    top: 25px;
-    left: 24px;
+    top: 24px;
+    left: 22px;
+    border: none;
     border-radius: 10px;
-    width: 950px;
-    height: 718px;
+    width: 958px;
+    height: 719.5px;
 }
 
 section#marcas{
